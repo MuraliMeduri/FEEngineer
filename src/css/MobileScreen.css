@@ -1,0 +1,29 @@
+.mobileNav {
+  display: flex;
+  flex-direction: row;
+  background-color: #0984e3;
+  height: 50px;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  position: relative;
+}
+.hamMenuContent {
+  display: none;
+  color: #000000;
+  position: absolute;
+  top: 30px;
+  width: 100%;
+  padding: 20px 20px 10px 0px;
+  flex-direction: column;
+}
+.hamMenuContent > div {
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px 5px 5px 10px;
+  border: 1px solid #0984e3;
+  color: #0984e3;
+  font-size: 14px;
+  font-weight: 700;
+}
