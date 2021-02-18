@@ -1,10 +1,3 @@
-{/*
-  @Copyright (c) 2021
-  @summary: Orderdetails for order status
-  @author Murali Meduri<meduri1@gmail.com>
-  @Created at: 02/08/2021
-*/}
-
 import React, { useRef, useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import { getCall } from "../api/getCall";

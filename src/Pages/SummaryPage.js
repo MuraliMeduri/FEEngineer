@@ -1,10 +1,3 @@
-{/*
-  @Copyright (c) 2021
-  @summary: Summary details for product status
-  @author Murali Meduri<meduri1@gmail.com>
-  @Created at: 02/08/2021
-*/}
-
 import React from "react";
 import iphonexr from "../images/iphone-xr-black.png";
 
